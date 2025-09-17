@@ -41,7 +41,7 @@ GEM
     optimist (3.0.1)
     ostruct (0.6.0)
     psych (3.3.4)
-    rexml (3.3.9)
+    rexml (3.4.2)
     syslog (0.1.2)
 
 PLATFORMS
